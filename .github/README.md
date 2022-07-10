@@ -1,20 +1,20 @@
 <p align="center">
-    <br><b>😫 𝗦𝘁𝗮𝗿 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>😈 𝐊𝐈𝐋𝐋𝐄𝐑 𝐁𝐎𝐘 😈</b><br>
 </p>
-<p align="center"><a href="https://t.me/Best_FriendsFor_Evet"><img src="https://telegra.ph/file/252fc4a5c64895b0e539c.jpg"></a></p>
+<p align="center"><a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://te.legra.ph/file/dd87d936c2bdf1ffbd15f.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/Starboihacks369/star-music?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/Starboihacks369/star-music?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/Starboihacks369/star-music?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/license/Starboihacks369/star-music?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/Starboihacks369/star-music?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/Starboihacks369/star-music/commits/Starboihacks369"> <img src="https://img.shields.io/github/last-commit/Starboihacks369/star-music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/github/contributors/Starboihacks369/star-music?style=for-the-badge" alt="Contributors">
-    <a href="https://github.com/Starboihacks369/star-music/issues"> <img src="https://img.shields.io/github/issues/Starboihacks369/star-music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Starboihacks369/star-music"> <img src="https://img.shields.io/github/repo-size/Starboihacks369/star-music?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/stars/Killerronnyop/killer-boyvc-music?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Killerronnyop/killer-boyvc-music?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/Killerronnyop/killer-boyvc-music?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/Killerronnyop/killer-boyvc-music?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/Killerronnyop/killer-boyvc-music?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/Starboihacks369/star-music/commits/Killerronnyop"> <img src="https://img.shields.io/github/last-commit/Killerronnyop/killer-boyvc-music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/Killerronnyop/killer-boyvc-music?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/Starboihacks369/star-music/issues"> <img src="https://img.shields.io/github/issues/Killerronnyop/killer-boyvc-music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Starboihacks369/star-music"> <img src="https://img.shields.io/github/repo-size/Killerronnyop/killer-boyvc-music?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -59,12 +59,12 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Starboihacks369/star-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Killerronnyop/killer-boyvc-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Starboihacks369/star-music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Killerronnyop/killer-boyvc-music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -85,14 +85,14 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝐒𝐓𝐀𝐑 𝐁𝐎𝐈](https://github.com/Starboihacks369): Developer
-- [Star Music Bot](https://telegram.me/itz_star_robot): Test Bot
+- [𝐊𝐈𝐋𝐋𝐄𝐑 𝐁𝐎𝐘](https://github.com/Killerronnyop): Developer
+- [Killer Music Bot](https://telegram.me/KILLER_MUSIC_OP_BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/its_star_boi"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/LOverveer2"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
