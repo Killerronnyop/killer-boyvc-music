@@ -4,7 +4,7 @@
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
   "repository": "https://github.com/Starboihacks369/star-music",
-  "stack": "container" 
+  "stack": "container",
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram String Session of assistant account",
