@@ -33,7 +33,7 @@ async def pmPermit(client: USER, message: Message):
                         "💞 ᴏᴡɴᴇʀ​​ 💞", url=f"https://t.me/{OWNER_USERNAME}"
                     )]
             ]
-        ],
+        ),
 
     )
             return
