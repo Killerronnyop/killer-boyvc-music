@@ -60,6 +60,11 @@
       "required": false,
       "value": "ENABLE"
     },
+    "HEROKU_MODE": {
+       "discription": " Enable this for your ",
+       "value": " ENABLE",
+       "required": true
+    },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": false,
